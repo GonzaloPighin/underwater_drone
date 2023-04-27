@@ -1,0 +1,50 @@
+<annotation>
+	<folder>2-numbers (pipes)</folder>
+	<filename>img_0510.png</filename>
+	<path>/home/gonzalo/CONICET/ERASMUS/RAMI/rami_dataset_convertido/2-numbers (pipes)/img_0510.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>319</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>86</ymin>
+			<xmax>193</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>25</ymin>
+			<xmax>319</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>15</ymin>
+			<xmax>319</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>

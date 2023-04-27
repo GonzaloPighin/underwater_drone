@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-pipes</folder>
+	<filename>img_0714.jpg</filename>
+	<path>/home/gonzalo/CONICET/ERASMUS/RAMI/rami_dataset_convertido/6-pipes/img_0714.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>1</ymin>
+			<xmax>320</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2-numbers (pipes)</folder>
+	<filename>img_0331.png</filename>
+	<path>/home/gonzalo/CONICET/ERASMUS/RAMI/rami_dataset_convertido/2-numbers (pipes)/img_0331.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>319</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>16</ymin>
+			<xmax>173</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>319</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

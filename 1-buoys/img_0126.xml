@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-buoys</folder>
+	<filename>img_0126.png</filename>
+	<path>/home/gonzalo/CONICET/ERASMUS/RAMI/rami_dataset_convertido/1-buoys/img_0126.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>319</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>57</ymin>
+			<xmax>205</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

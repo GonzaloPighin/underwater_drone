@@ -1,0 +1,35 @@
+# YOLOv8 
+# Dataset https://github.com/GonzaloPighin/underwater_drone
+# Ejemplo de invocación: python train.py --data dataset.yaml
+# parent
+# ├── yolov8
+# └── datasets
+#     └── yacares  ← Se descarga acá.
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+ruta: ../datasets/yacares  # Directorio raíz del set de datos.
+train: data/images/entrenamiento  # Imágenes de entrenamiento (relativas a 'ruta') 100 - imágenes
+val: data/images/validacion  # Imágenes de validación (relativas a 'ruta') - 100 imágenes
+test: data/images/prueba # Imágenes de prueba (relativas a 'ruta') - 24 imágenes
+
+# Clases
+names:
+  0: 0
+  1: 1
+  2: 2
+  3: 3
+  4: 4
+  5: 5
+  6: 6
+  7: 7
+  8: 8
+  9: 9
+  10:buoy
+  11:pipe
+  12:console
+  13:leak
+
+nc: 13                                                                           # Number of classes.
+clases: ['0','1','2','3','4','5','6','7','8','9','buoy','pipe','console','leak'] # Classes names.
+

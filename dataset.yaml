@@ -30,6 +30,5 @@ names:
   12:console
   13:leak
 
-nc: 13                                                                           # Number of classes.
+nc: 14                                                                           # Number of classes.
 clases: ['0','1','2','3','4','5','6','7','8','9','buoy','pipe','console','leak'] # Classes names.
-

@@ -1,10 +1,10 @@
 # YOLOv8 
 # Dataset https://github.com/GonzaloPighin/underwater_drone
-# Ejemplo de invocación: python train.py --data dataset.yaml
+# Invocation example: python train.py --data dataset.yaml
 # parent
 # ├── yolov8
 # └── datasets
-#     └── yacares  ← Se descarga acá.
+#     └── yacares  ← Downloaded here.
 
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 
